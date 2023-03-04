@@ -14,7 +14,7 @@ const darkCode = {
 </p>
 
 <p style="margin:5px;">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonydark&theme=radical&langs_count=6&layout=compact"><img alt="jhonydark Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonydark&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonydark&theme=radical&langs_count=6&layout=compact"><img alt="jhonydark Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonydark&theme=radical&langs_count=5&layout=compact" /></a>
  </p>
  
 <p style="margin:5px;">
