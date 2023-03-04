@@ -10,11 +10,11 @@ const darkCode = {
 <div style="display:flex; justifiy-content:center; align-content: space-between;"> 
  
 <p style="margin:5px;">
-<a  href="https://github-readme-stats.vercel.app/api?username=jhonydark&count_private=true&show_icons=true&theme=radical"><img alt="jhonydark Activity Graph" src="https://github-readme-stats.vercel.app/api?username=jhonydark&count_private=true&show_icons=true&theme=radical" /></a>
+<a  href="https://github-readme-stats.vercel.app/api?username=jhonydark&count_private=true&show_icons=true&theme=radical"><img alt="jhonydark Activity Graph" src="https://github-readme-stats.vercel.app/api?username=jhonydark&count_private=false&show_icons=true&theme=radical" /></a>
 </p>
 
 <p style="margin:5px;">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonydark&theme=radical&langs_count=6&layout=compact"><img alt="jhonydark Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonydark&theme=radical&langs_count=5&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonydark&theme=radical&langs_count=5&layout=compact"><img alt="jhonydark Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonydark&theme=radical&langs_count=5&layout=compact" /></a>
  </p>
  
 <p style="margin:5px;">
