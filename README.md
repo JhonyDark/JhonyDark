@@ -2,8 +2,8 @@
 
 ```javascript
 const darkCode = {
-  code: [Javascript, Typescript, Html, Css, Php],
-  tools: [ Laravel, Vue, React, React Native, Jquery, Booststrap, Node, TailwindCss],
+  code: [Javascript, Html, Css, Php],
+  tools: [ Laravel, Node, TailwindCss],
   passions: [ 'Performance web', 'Web development' ],  
 }
 ```
